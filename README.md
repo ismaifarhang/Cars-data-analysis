@@ -4,9 +4,10 @@ The document has been updated to include the exploratory analysis on car manufac
 ## Content of Table
 ### Sheets Included in the Excel File
 1. **Raw Data**: Contains details of various cars, including make, model, year, and performance metrics in seprated CSV file
-2. **Pivot Tables**: Summarized data highlighting Miles and Derivers.
-3. **Charts**: Graphical representations of data, such as bar charts and scatter plots.
-4. **Dashboard**: Interactive summary providing key insights at a glance.
+2. **Data Processing**: Processes data on Car IDs and Make a Uniqu IDs.
+3. **Pivot Tables**: Summarized Sum of Miles per Drivers and so on..
+4. **Charts**: Graphical representations of data, such as bar charts and scatter plots.
+
 
 
 ## Project Overview
@@ -19,9 +20,15 @@ This sheet contains detailed car information, including:
 - **Performance Metrics**: Mileage, speed, and fuel efficiency.
 - **Pricing Data**: Market prices based on car condition and location.
 
+### Processing DATA
+An interactive overview processing:
+- Funcations: Make it sperate into defferent columns such as Model and Full Model and etc.
+- Calcuation: caculate data by year, age, make, or engine type.
+- Summaries and leaderboards for quick decision-making and make new Car IDs.
+
 ### Pivot Tables Sheet
 Summaries created using pivot tables include:
-- Average price by car make and model.
+- Sum price by car Miles and Waranttee.
 - Fuel efficiency trends by engine type and year.
 - Top-performing cars based on mileage and horsepower.
 
@@ -30,12 +37,6 @@ Visual insights represented through:
 - **Bar Charts**: Comparison of car prices across makes and models.
 - **Line Graphs**: Trends in fuel efficiency over the years.
 - **Scatter Plots**: Correlation between mileage and price.
-
-### Dashboard Sheet
-An interactive overview presenting:
-- Key Performance Indicators (KPIs): Average price, top fuel-efficient cars, etc.
-- Filters: Slice data by year, make, or engine type.
-- Summaries and leaderboards for quick decision-making.
 
 
 ## Result of Project
